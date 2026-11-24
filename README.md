@@ -1,7 +1,7 @@
-﻿# Practica de prestamos de equipo UNICAH
+# Practica de prestamos de equipo UNICAH
 
 Nombre: Christopher Jose Amaya Pineda
-Numero de cuenta: PENDIENTE
+Numero de cuenta: 0801200420436
 
 ## Respuestas
 
